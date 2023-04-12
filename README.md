@@ -91,6 +91,7 @@ Nenhuma até o momento.
 - Jéser Cáceres Marcelino - Função Desenvolvedor Back End
 - Guilherme Traversim R. F. da Silva - Função: Desenvolvedor Back End
 - Gabriel Wilian dos Santos - Função: Desenvolvedor Front End
+- Bruno Cesar da Silva - Função: Desenvolvedor Front End
 - Micaela Anhaias da Silva - Função: Responsável Documentação
 
 ### Licença
